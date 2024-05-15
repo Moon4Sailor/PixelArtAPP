@@ -1,2 +1,2 @@
-# PixelArtAPP-.net
+# PixelArtAPP
 First week project. incomplete
